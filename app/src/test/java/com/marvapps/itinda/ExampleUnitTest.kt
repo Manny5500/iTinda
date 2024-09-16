@@ -1,4 +1,4 @@
-package com.marvapps.elista
+package com.marvapps.itinda
 
 import org.junit.Test
 
